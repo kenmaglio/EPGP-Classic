@@ -1,13 +1,13 @@
 ## Interface: 11304
-## X-Min-Interface: 11302
-## Title: EPGP Classic
+## X-Min-Interface: 11304
+## Title: EPGP Reforged Daggers Edition
 ## Notes: Effort Points/Gear Points Loot System
-## Author: jpxthu (Maintainer)
-## Version: v1.4.7
+## Author: kreioth (Maintainer)
+## Version: v0.1.0
 ## SavedVariables: EPGP_DB
 ## OptionalDeps: LibRealmInfo
 ## X-Category: Guild
-## X-Website: https://github.com/jpxthu/EPGP-Classic
+## X-Website: https://github.com/kenmaglio/EPGP-RDE
 
 libs\LibStub\LibStub.lua
 libs\CallbackHandler-1.0\CallbackHandler-1.0.xml
